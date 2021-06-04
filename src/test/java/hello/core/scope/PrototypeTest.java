@@ -28,6 +28,8 @@ public class PrototypeTest {
 		prototypeBean2.destroy();
 		ac.close();
 
+
+
 	}
 
 	@Scope("prototype")
